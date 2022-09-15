@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\sharpGrade\skillbox\4.8\4.8\Life\bin\Debug\Life.exe.config
+C:\Users\User\Desktop\sharpGrade\skillbox\4.8\4.8\Life\bin\Debug\Life.exe
+C:\Users\User\Desktop\sharpGrade\skillbox\4.8\4.8\Life\bin\Debug\Life.pdb
+C:\Users\User\Desktop\sharpGrade\skillbox\4.8\4.8\Life\obj\Debug\Life.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\sharpGrade\skillbox\4.8\4.8\Life\obj\Debug\Life.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\sharpGrade\skillbox\4.8\4.8\Life\obj\Debug\Life.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sharpGrade\skillbox\4.8\4.8\Life\obj\Debug\Life.exe
+C:\Users\User\Desktop\sharpGrade\skillbox\4.8\4.8\Life\obj\Debug\Life.pdb
