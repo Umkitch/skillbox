@@ -21,7 +21,7 @@ namespace _4._8
             Random random = new Random();
 
             mX1 = new int[amountString, amountColumn];
-            Console.WriteLine("\n\tОбъявляем первую матрицу.\t\n");
+            Console.WriteLine("\n\tОбъявляем первую матрицу и суммируем значения в индексах.\n");
             for (int i = 0; i < mX1.GetLength(0); i++)
             {
                 for (int j = 0; j < mX1.GetLength(1); j++)
@@ -33,16 +33,12 @@ namespace _4._8
             }
             var sum = 0;
             foreach (var item in mX1)
-            {
                 sum += item;
-            }
-            Console.WriteLine("Сумма всех элементов - {0}", sum);
+            Console.WriteLine("Сумма всех элементов:\t {0}", sum);
 
             mX3 = new int[amountString, amountColumn];
-
             var countString = 0;
             var countColumn = 0;
-
             // Просматриваем первую матрицу и присваиваем ее значения третьей матрице.
             foreach (var item in mX1)
             {
@@ -57,7 +53,7 @@ namespace _4._8
             countString = 0;
             countColumn = 0;
 
-            Console.WriteLine("\n\tОбъявляем вторую матрицу.\t\n");
+            Console.WriteLine("\n\tОбъявляем вторую матрицу.\n");
             mX2 = new int[amountString, amountColumn];
             for (int i = 0; i < mX2.GetLength(0); i++)
             {
@@ -82,8 +78,6 @@ namespace _4._8
                     Console.WriteLine();
                 }
             }
-
-
             Console.ReadKey();
         }
     }
